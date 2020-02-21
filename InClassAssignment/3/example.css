@@ -1,0 +1,37 @@
+h1, h2 {
+	text-align: center;
+}
+
+main {
+	width: 70%;
+	margin: auto;
+	display: flex;
+
+}
+
+.left {
+	flex-basis: 33%;
+}
+
+.right {
+	flex-basis: 67%;	
+}
+
+.column {
+	padding: 2em;
+	margin: 2em;
+	border: 4px dashed red;
+}
+
+.paragraph {
+	clear: both;
+}
+
+img {
+	float: right;
+	width: 200px;
+}
+
+.lastParagraph {
+	position: fixed;
+}

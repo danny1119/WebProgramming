@@ -1,0 +1,25 @@
+h1{
+	font-size: 14pt;
+	font-family: "Arial";
+}
+
+h1:first-of-type {
+	font-weight: bold; 
+	color: Moccasin;
+}
+
+h1:last-of-type {
+	font-weight: normal; 
+	color: Khaki;
+}
+
+h2:first-of-type {
+	font-size: 12pt;
+	font-family: "Arial";
+	font-weight: normal; 
+	color: Khaki;
+}
+
+	
+
+
